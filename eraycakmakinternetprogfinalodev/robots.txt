@@ -1,0 +1,9 @@
+Sitemap: http://www.websitename.com/sitemap.xml
+User-agent: *
+Disallow: /css
+Disallow: /fonks
+Disallow: /fonts
+Disallow: /images
+Disallow: /php
+Disallow: /patron
+Disallow: /videos
